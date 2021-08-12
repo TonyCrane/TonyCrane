@@ -11,10 +11,10 @@
 
 <p align="center">
   <a href="https://github.com/TonyCrane">
-    <img align="left" src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.left.svg" />
+    <img align="left" width="400" src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.left.svg" />
   </a>
   <a href="https://github.com/TonyCrane">
-    <img align="right" src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.right.svg" />
+    <img align="right" width="400" src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.right.svg" />
   </a>
 </p>
 

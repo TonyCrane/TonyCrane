@@ -23,7 +23,6 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Shanghai
-          config_display: large
           plugin_followup: yes
           plugin_followup_sections: user
           plugin_languages: yes
