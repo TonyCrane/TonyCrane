@@ -12,13 +12,14 @@
 [<img align="left" width="400" src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.left.svg">](https://github.com/TonyCrane)
 [<img align="right" width="400" src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.right.svg">](https://github.com/TonyCrane)
 
+<!-- 
 My Projects:
 - documentation for [manim](https://github.com/3b1b/manim)
 - [manim_projects](https://github.com/TonyCrane/manim_projects): my videos made by manim
 - [OI](https://github.com/TonyCrane/OI): my codes of studying Olympiad in Informatics
 - [manim_sandbox](https://github.com/manim-kindergarten/manim_sandbox): some utils of manim
 - [manim_document_zh](https://github.com/manim-kindergarten/manim_document_zh): a chinese document of manim
-- [manim_action_renderer](https://github.com/manim-kindergarten/manim_action_renderer): a GitHub action to render manim videos
+- [manim_action_renderer](https://github.com/manim-kindergarten/manim_action_renderer): a GitHub action to render manim videos -->
 
 <!--
 **Tony031218/Tony031218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
