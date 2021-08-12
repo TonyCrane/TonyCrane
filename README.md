@@ -7,8 +7,7 @@
   <a href="https://www.luogu.com.cn/user/141791">luogu</a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyCrane&hide=html,css,javascript&count_private=true&layout=compact)](https://github.com/TonyCrane)
-[![Tony's stats](https://github-readme-stats.vercel.app/api?username=TonyCrane&show_icons=true&count_private=true&line_height=20)](https://github.com/TonyCrane)
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
 
 My Projects:
 - documentation for [manim](https://github.com/3b1b/manim)
