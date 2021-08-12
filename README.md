@@ -7,7 +7,10 @@
   <a href="https://www.luogu.com.cn/user/141791">luogu</a>
 </p>
 
-![Metrics](https://github.com/TonyCrane/TonyCrane/blob/master/github-metrics.svg)
+<!-- ![Metrics](https://github.com/TonyCrane/TonyCrane/blob/master/github-metrics.svg) -->
+
+[<img align="left" width="400" src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.left.svg">](https://github.com/TonyCrane)
+[<img align="right" width="400" src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.right.svg">](https://github.com/TonyCrane)
 
 My Projects:
 - documentation for [manim](https://github.com/3b1b/manim)
