@@ -7,7 +7,7 @@
   <a href="https://www.luogu.com.cn/user/141791">luogu</a>
 </p>
 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![Metrics](https://github.com/TonyCrane/TonyCrane/blob/master/github-metrics.svg)
 
 My Projects:
 - documentation for [manim](https://github.com/3b1b/manim)
