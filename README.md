@@ -4,13 +4,12 @@
   <a href="https://tonycrane.github.io/">blog</a> •
   <a href="https://space.bilibili.com/171431343">bilibili</a> •
   <a href="https://github.com/manim-kindergarten">org</a> •
-  <a href="https://www.luogu.com.cn/user/141791">luogu</a>
+  <a href="https://t.me/Tony_Crane">telegram</a>
 </p>
 
 <!-- ![Metrics](https://github.com/TonyCrane/TonyCrane/blob/master/github-metrics.svg) -->
 
-[<img align="left" width="400" src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.left.svg">](https://github.com/TonyCrane)
-[<img align="right" width="400" src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.right.svg">](https://github.com/TonyCrane)
+[<img align="left" width="400" src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.svg">](https://github.com/TonyCrane)
 
 <!-- 
 My Projects:
