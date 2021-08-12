@@ -9,7 +9,11 @@
 
 <!-- ![Metrics](https://github.com/TonyCrane/TonyCrane/blob/master/github-metrics.svg) -->
 
-[<img align="left" width="400" src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.svg">](https://github.com/TonyCrane)
+<p align="center">
+  <a href="https://github.com/TonyCrane">
+    <img src="https://github.com/TonyCrane/TonyCrane/blob/master/metrics.svg" />
+  </a>
+</p>
 
 <!-- 
 My Projects:
