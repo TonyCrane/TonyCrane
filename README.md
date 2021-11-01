@@ -29,7 +29,7 @@ My Projects:
 - [manim_action_renderer](https://github.com/manim-kindergarten/manim_action_renderer): a GitHub action to render manim videos -->
 
 <!--
-**Tony031218/Tony031218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TonyCrane/TonyCrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
