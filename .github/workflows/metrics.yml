@@ -43,7 +43,6 @@ jobs:
       - name: right
         uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.right.svg
 
