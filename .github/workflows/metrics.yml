@@ -38,7 +38,10 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
-          config_order: followup, languages, topics
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+          config_order: followup, languages, topics, notable
 
       - name: right
         uses: lowlighter/metrics@latest
