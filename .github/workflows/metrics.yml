@@ -28,13 +28,14 @@ jobs:
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_threshold: 0%
+#           plugin_languages_recent_days: 14
+#           plugin_languages_recent_load: 300
+#           plugin_languages_threshold: 0%
           plugin_languages_ignored: html, css
-          plugin_languages_details: percentage
-          plugin_languages_sections: most-used
-          plugin_languages_indepth: no
+          plugin_languages_details: lines, percentage
+#           plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          commits_authoring: 975062472@qq.com, tony031218@qq.com, tonycrane@foxmail.com, crane@manim.org.cn, tonycrane@zju.edu.cn
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
