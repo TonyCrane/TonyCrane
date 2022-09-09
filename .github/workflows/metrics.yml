@@ -30,7 +30,7 @@ jobs:
           plugin_languages_limit: 8
 #           plugin_languages_recent_days: 14
 #           plugin_languages_recent_load: 300
-          plugin_languages_threshold: 13%
+#           plugin_languages_threshold: 13%
           plugin_languages_other: true
           plugin_languages_ignored: html, css, 4D, q
           plugin_languages_details: bytes-size, percentage
