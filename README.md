@@ -6,12 +6,10 @@
     <a href="https://blog.tonycrane.cc/">blog</a> ∙
     <a href="https://note.tonycrane.cc/">note</a> ∙
     <a href="https://space.bilibili.com/171431343">bilibili</a> ∙ 
-    <a href="https://github.com/manim-kindergarten">org</a> ∙
+    <a href="https://t.me/TonyCraneSky">channel</a> ∙
     <a href="https://t.me/Tony_Crane">telegram</a>
   </samp>
 </p>
-
-<!-- ![Metrics](https://github.com/TonyCrane/TonyCrane/blob/master/github-metrics.svg) -->
 
 <p align="center">
   <a href="https://github.com/TonyCrane">
