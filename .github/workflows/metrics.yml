@@ -8,7 +8,7 @@ on:
   push: {branches: ["master", "main"]}
 
 jobs:
-  github-metrics:
+  metrics-left:
     runs-on: ubuntu-latest
     steps:
       - name: left
@@ -50,6 +50,9 @@ jobs:
           plugin_rss_limit: 3
           config_order: followup, languages, starlists, rss
 
+  metrics-right:
+    runs-on: ubuntu-latest
+    steps:
       - name: right
         uses: lowlighter/metrics@latest
         with:
