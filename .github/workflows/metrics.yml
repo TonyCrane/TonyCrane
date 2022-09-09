@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: left
-        uses: TonyCrane/metrics@latest
+        uses: TonyCrane/metrics@v1.0
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
