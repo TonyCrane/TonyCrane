@@ -226,7 +226,7 @@
                                 </svg>
                                 Learning
                             </h2>
-                            <div class="count">179 repositories</div>
+                            <div class="count">180 repositories</div>
                             <div class="description">Learning materials of various fields</div>
                             <div class="languages">
                                 <div class="row">
@@ -235,12 +235,12 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="119.41176470588235" height="8" fill="#dea584"/>
-                                        <rect mask="url(#languages-bar)" x="119.41176470588235" y="0" width="115.29411764705884" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="234.7058823529412" y="0" width="78.23529411764706" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="312.94117647058823" y="0" width="45.294117647058826" height="8" fill="#3d6117"/>
-                                        <rect mask="url(#languages-bar)" x="358.2352941176471" y="0" width="32.94117647058823" height="8" fill="#555555"/>
-                                        <rect mask="url(#languages-bar)" x="391.1764705882353" y="0" width="28.82352941176471" height="8" fill="#da5b0b"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="118.25242718446601" height="8" fill="#dea584"/>
+                                        <rect mask="url(#languages-bar)" x="118.25242718446601" y="0" width="118.25242718446601" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="236.50485436893203" y="0" width="77.47572815533981" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="313.9805825242718" y="0" width="44.85436893203883" height="8" fill="#3d6117"/>
+                                        <rect mask="url(#languages-bar)" x="358.83495145631065" y="0" width="32.62135922330097" height="8" fill="#555555"/>
+                                        <rect mask="url(#languages-bar)" x="391.4563106796116" y="0" width="28.54368932038835" height="8" fill="#da5b0b"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -253,7 +253,7 @@
                                                 Rust
                                             </div>
                                             <small>
-                                                <div>16.2%</div>
+                                                <div>16.11%</div>
                                                 <div>29★</div>
                                             </small>
                                         </div>
@@ -265,7 +265,7 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>10.61%</div>
+                                                <div>10.56%</div>
                                                 <div>19★</div>
                                             </small>
                                         </div>
@@ -277,7 +277,7 @@
                                                 C
                                             </div>
                                             <small>
-                                                <div>4.47%</div>
+                                                <div>4.44%</div>
                                                 <div>8★</div>
                                             </small>
                                         </div>
@@ -291,8 +291,8 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>15.64%</div>
-                                                <div>28★</div>
+                                                <div>16.11%</div>
+                                                <div>29★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -303,7 +303,7 @@
                                                 TeX
                                             </div>
                                             <small>
-                                                <div>6.15%</div>
+                                                <div>6.11%</div>
                                                 <div>11★</div>
                                             </small>
                                         </div>
@@ -315,7 +315,7 @@
                                                 ipynb
                                             </div>
                                             <small>
-                                                <div>3.91%</div>
+                                                <div>3.89%</div>
                                                 <div>7★</div>
                                             </small>
                                         </div>
