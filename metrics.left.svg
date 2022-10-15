@@ -235,12 +235,12 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="119.44954128440368" height="8" fill="#dea584"/>
-                                        <rect mask="url(#languages-bar)" x="119.44954128440368" y="0" width="119.44954128440368" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="238.89908256880736" y="0" width="80.91743119266056" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="319.81651376146795" y="0" width="42.38532110091743" height="8" fill="#3d6117"/>
-                                        <rect mask="url(#languages-bar)" x="362.2018348623854" y="0" width="30.825688073394495" height="8" fill="#555555"/>
-                                        <rect mask="url(#languages-bar)" x="393.02752293577987" y="0" width="26.972477064220186" height="8" fill="#da5b0b"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="118.36363636363636" height="8" fill="#dea584"/>
+                                        <rect mask="url(#languages-bar)" x="118.36363636363636" y="0" width="118.36363636363636" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="236.72727272727272" y="0" width="80.18181818181819" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="316.9090909090909" y="0" width="42" height="8" fill="#3d6117"/>
+                                        <rect mask="url(#languages-bar)" x="358.9090909090909" y="0" width="34.36363636363637" height="8" fill="#555555"/>
+                                        <rect mask="url(#languages-bar)" x="393.27272727272725" y="0" width="26.727272727272723" height="8" fill="#da5b0b"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -277,8 +277,8 @@
                                                 C
                                             </div>
                                             <small>
-                                                <div>4.04%</div>
-                                                <div>8★</div>
+                                                <div>4.55%</div>
+                                                <div>9★</div>
                                             </small>
                                         </div>
                                     </section>
