@@ -235,9 +235,9 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="133.1707317073171" height="8" fill="#dea584"/>
-                                        <rect mask="url(#languages-bar)" x="133.1707317073171" y="0" width="126.34146341463416" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="259.5121951219512" y="0" width="71.70731707317074" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="129.7560975609756" height="8" fill="#dea584"/>
+                                        <rect mask="url(#languages-bar)" x="129.7560975609756" y="0" width="126.34146341463416" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="256.0975609756098" y="0" width="75.1219512195122" height="8" fill="#f1e05a"/>
                                         <rect mask="url(#languages-bar)" x="331.219512195122" y="0" width="37.5609756097561" height="8" fill="#3d6117"/>
                                         <rect mask="url(#languages-bar)" x="368.7804878048781" y="0" width="27.31707317073171" height="8" fill="#555555"/>
                                         <rect mask="url(#languages-bar)" x="396.09756097560984" y="0" width="23.902439024390244" height="8" fill="#da5b0b"/>
@@ -253,8 +253,8 @@
                                                 Rust
                                             </div>
                                             <small>
-                                                <div>17.41%</div>
-                                                <div>39★</div>
+                                                <div>16.96%</div>
+                                                <div>38★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -265,8 +265,8 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>9.38%</div>
-                                                <div>21★</div>
+                                                <div>9.82%</div>
+                                                <div>22★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
