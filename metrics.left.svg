@@ -123,12 +123,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="132.3494197053314" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="132.3494197053314" y="0" width="105.3216432516422" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="237.6710629569736" y="0" width="102.96703707155557" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="340.6381000285292" y="0" width="52.25484657923887" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="392.89294660776807" y="0" width="34.380490175223166" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="427.2734367829912" y="0" width="32.72656321700879" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="130.3572362684884" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="130.3572362684884" y="0" width="108.34125901175476" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="238.69849528024315" y="0" width="103.73629415306542" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="342.4347894333086" y="0" width="51.46828295031094" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="393.90307238361953" y="0" width="33.86297945828828" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="427.76605184190777" y="0" width="32.23394815809219" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -141,19 +141,19 @@
                             </div>
                             <small>
                                 <div>1.62 MB</div>
-                                <div>28.77%</div>
+                                <div>28.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#083fa1" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Markdown
+                                C++
                             </div>
                             <small>
-                                <div>1.26 MB</div>
-                                <div>22.38%</div>
+                                <div>1.29 MB</div>
+                                <div>22.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -165,7 +165,7 @@
                             </div>
                             <small>
                                 <div>420 kB</div>
-                                <div>7.47%</div>
+                                <div>7.36%</div>
                             </small>
                         </div>
                     </section>
@@ -173,13 +173,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#083fa1" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C++
+                                Markdown
                             </div>
                             <small>
-                                <div>1.29 MB</div>
-                                <div>22.9%</div>
+                                <div>1.34 MB</div>
+                                <div>23.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -191,7 +191,7 @@
                             </div>
                             <small>
                                 <div>638 kB</div>
-                                <div>11.36%</div>
+                                <div>11.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -203,7 +203,7 @@
                             </div>
                             <small>
                                 <div>400 kB</div>
-                                <div>7.11%</div>
+                                <div>7.01%</div>
                             </small>
                         </div>
                     </section>
@@ -226,7 +226,7 @@
                                 </svg>
                                 Learning
                             </h2>
-                            <div class="count">249 repositories</div>
+                            <div class="count">252 repositories</div>
                             <div class="description">Learning materials of various fields</div>
                             <div class="languages">
                                 <div class="row">
@@ -253,7 +253,7 @@
                                                 Rust
                                             </div>
                                             <small>
-                                                <div>19.68%</div>
+                                                <div>19.44%</div>
                                                 <div>49★</div>
                                             </small>
                                         </div>
@@ -265,7 +265,7 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>8.84%</div>
+                                                <div>8.73%</div>
                                                 <div>22★</div>
                                             </small>
                                         </div>
@@ -277,7 +277,7 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>3.21%</div>
+                                                <div>3.17%</div>
                                                 <div>8★</div>
                                             </small>
                                         </div>
@@ -291,7 +291,7 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>16.87%</div>
+                                                <div>16.67%</div>
                                                 <div>42★</div>
                                             </small>
                                         </div>
@@ -303,7 +303,7 @@
                                                 TeX
                                             </div>
                                             <small>
-                                                <div>4.42%</div>
+                                                <div>4.37%</div>
                                                 <div>11★</div>
                                             </small>
                                         </div>
@@ -315,7 +315,7 @@
                                                 C
                                             </div>
                                             <small>
-                                                <div>3.21%</div>
+                                                <div>3.17%</div>
                                                 <div>8★</div>
                                             </small>
                                         </div>
