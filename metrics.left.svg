@@ -237,10 +237,10 @@
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="147" height="8" fill="#dea584"/>
                                         <rect mask="url(#languages-bar)" x="147" y="0" width="126" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="272.99999999999994" y="0" width="66" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="338.99999999999994" y="0" width="33" height="8" fill="#3d6117"/>
-                                        <rect mask="url(#languages-bar)" x="372" y="0" width="24" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="396" y="0" width="24" height="8" fill="#555555"/>
+                                        <rect mask="url(#languages-bar)" x="272.99999999999994" y="0" width="69" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="341.99999999999994" y="0" width="33" height="8" fill="#3d6117"/>
+                                        <rect mask="url(#languages-bar)" x="375" y="0" width="24" height="8" fill="#555555"/>
+                                        <rect mask="url(#languages-bar)" x="399" y="0" width="21" height="8" fill="#3178c6"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -265,16 +265,16 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>8.73%</div>
-                                                <div>22★</div>
+                                                <div>9.13%</div>
+                                                <div>23★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                TypeScript
+                                                C
                                             </div>
                                             <small>
                                                 <div>3.17%</div>
@@ -310,13 +310,13 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                C
+                                                TypeScript
                                             </div>
                                             <small>
-                                                <div>3.17%</div>
-                                                <div>8★</div>
+                                                <div>2.78%</div>
+                                                <div>7★</div>
                                             </small>
                                         </div>
                                     </section>
