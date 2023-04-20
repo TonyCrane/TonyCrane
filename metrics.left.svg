@@ -235,12 +235,12 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="166.73366834170855" height="8" fill="#dea584"/>
-                                        <rect mask="url(#languages-bar)" x="166.73366834170855" y="0" width="107.63819095477388" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="274.3718592964824" y="0" width="54.87437185929649" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="329.2462311557789" y="0" width="31.65829145728643" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="360.9045226130653" y="0" width="29.547738693467338" height="8" fill="#3d6117"/>
-                                        <rect mask="url(#languages-bar)" x="390.45226130653265" y="0" width="29.547738693467338" height="8" fill="#555555"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="165.9" height="8" fill="#dea584"/>
+                                        <rect mask="url(#languages-bar)" x="165.9" y="0" width="107.10000000000001" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="273" y="0" width="54.6" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="327.6" y="0" width="33.6" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="361.2" y="0" width="29.400000000000002" height="8" fill="#3d6117"/>
+                                        <rect mask="url(#languages-bar)" x="390.59999999999997" y="0" width="29.400000000000002" height="8" fill="#555555"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -303,8 +303,8 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>4.21%</div>
-                                                <div>15★</div>
+                                                <div>4.49%</div>
+                                                <div>16★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
