@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: left
-        uses: TonyCrane/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -54,7 +54,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: right
-        uses: lowlighter/metrics@latest
+        uses: TonyCrane/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.right.svg
