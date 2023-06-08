@@ -226,7 +226,7 @@
                                 </svg>
                                 Learning
                             </h2>
-                            <div class="count">369 repositories</div>
+                            <div class="count">371 repositories</div>
                             <div class="description">Learning materials of various fields</div>
                             <div class="languages">
                                 <div class="row">
@@ -235,12 +235,12 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="173.5211267605634" height="8" fill="#dea584"/>
-                                        <rect mask="url(#languages-bar)" x="173.5211267605634" y="0" width="102.53521126760563" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="276.056338028169" y="0" width="51.267605633802816" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="327.32394366197184" y="0" width="37.46478873239437" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="364.7887323943662" y="0" width="27.605633802816904" height="8" fill="#3d6117"/>
-                                        <rect mask="url(#languages-bar)" x="392.39436619718305" y="0" width="27.605633802816904" height="8" fill="#555555"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="173.86046511627907" height="8" fill="#dea584"/>
+                                        <rect mask="url(#languages-bar)" x="173.86046511627907" y="0" width="101.5813953488372" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="275.44186046511624" y="0" width="50.7906976744186" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="326.23255813953483" y="0" width="37.116279069767444" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="363.34883720930225" y="0" width="29.302325581395348" height="8" fill="#555555"/>
+                                        <rect mask="url(#languages-bar)" x="392.65116279069764" y="0" width="27.348837209302324" height="8" fill="#3d6117"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -253,8 +253,8 @@
                                                 Rust
                                             </div>
                                             <small>
-                                                <div>23.85%</div>
-                                                <div>88★</div>
+                                                <div>23.99%</div>
+                                                <div>89★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -265,20 +265,20 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>7.05%</div>
+                                                <div>7.01%</div>
                                                 <div>26★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3d6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                TeX
+                                                C
                                             </div>
                                             <small>
-                                                <div>3.79%</div>
-                                                <div>14★</div>
+                                                <div>4.04%</div>
+                                                <div>15★</div>
                                             </small>
                                         </div>
                                     </section>
@@ -291,7 +291,7 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>14.09%</div>
+                                                <div>14.02%</div>
                                                 <div>52★</div>
                                             </small>
                                         </div>
@@ -303,19 +303,19 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>5.15%</div>
+                                                <div>5.12%</div>
                                                 <div>19★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#3d6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                C
+                                                TeX
                                             </div>
                                             <small>
-                                                <div>3.79%</div>
+                                                <div>3.77%</div>
                                                 <div>14★</div>
                                             </small>
                                         </div>
