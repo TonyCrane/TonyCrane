@@ -123,12 +123,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.74760297432758" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="153.74760297432758" y="0" width="122.73316259620024" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="276.4807655705278" y="0" width="95.13410092765034" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="371.6148664981782" y="0" width="81.14261851012176" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.75748500829997" y="0" width="4.401143922729803" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="457.15862893102974" y="0" width="2.8413710689702527" height="8" fill="#b2b7f8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.8108478712288" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="153.8108478712288" y="0" width="122.70781668449428" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="276.5186645557231" y="0" width="95.11445456254955" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="371.6331191182726" y="0" width="81.12586155869278" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.75898067696534" y="0" width="4.400235032231821" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="457.15921570919716" y="0" width="2.840784290802766" height="8" fill="#b2b7f8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -141,7 +141,7 @@
                             </div>
                             <small>
                                 <div>2.08 MB</div>
-                                <div>33.42%</div>
+                                <div>33.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -224,7 +224,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"/>
                                 </svg>
-                                📖 Learning
+                                Learning
                             </h2>
                             <div class="count">382 repositories</div>
                             <div class="description">Learning materials of various fields</div>
