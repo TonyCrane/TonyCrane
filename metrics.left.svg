@@ -224,7 +224,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"/>
                                 </svg>
-                                Learning
+                                📖 Learning
                             </h2>
                             <div class="count">382 repositories</div>
                             <div class="description">Learning materials of various fields</div>
@@ -235,10 +235,10 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="175.63636363636363" height="8" fill="#dea584"/>
-                                        <rect mask="url(#languages-bar)" x="175.63636363636363" y="0" width="101.18181818181819" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="276.8181818181818" y="0" width="49.63636363636363" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="326.45454545454544" y="0" width="38.18181818181818" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="173.72727272727272" height="8" fill="#dea584"/>
+                                        <rect mask="url(#languages-bar)" x="173.72727272727272" y="0" width="101.18181818181819" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="274.90909090909093" y="0" width="49.63636363636363" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="324.54545454545456" y="0" width="40.09090909090909" height="8" fill="#3178c6"/>
                                         <rect mask="url(#languages-bar)" x="364.6363636363636" y="0" width="28.636363636363633" height="8" fill="#555555"/>
                                         <rect mask="url(#languages-bar)" x="393.27272727272725" y="0" width="26.727272727272723" height="8" fill="#3d6117"/>
                                     </svg>
@@ -253,8 +253,8 @@
                                                 Rust
                                             </div>
                                             <small>
-                                                <div>24.08%</div>
-                                                <div>92★</div>
+                                                <div>23.82%</div>
+                                                <div>91★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -303,8 +303,8 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>5.24%</div>
-                                                <div>20★</div>
+                                                <div>5.5%</div>
+                                                <div>21★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
