@@ -54,7 +54,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: right
-        uses: TonyCrane/metrics@master
+        uses: TonyCrane/metrics@fix_dockerfile
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.right.svg
