@@ -237,8 +237,8 @@
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="172.21757322175733" height="8" fill="#dea584"/>
                                         <rect mask="url(#languages-bar)" x="172.21757322175733" y="0" width="100.1673640167364" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="272.3849372384937" y="0" width="43.93305439330544" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="316.31799163179915" y="0" width="38.66108786610879" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="272.3849372384937" y="0" width="42.17573221757322" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="314.56066945606693" y="0" width="40.41841004184101" height="8" fill="#3178c6"/>
                                         <rect mask="url(#languages-bar)" x="354.97907949790795" y="0" width="38.66108786610879" height="8" fill="#555555"/>
                                         <rect mask="url(#languages-bar)" x="393.64016736401675" y="0" width="26.359832635983263" height="8" fill="#3d6117"/>
                                     </svg>
@@ -265,8 +265,8 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>5.9%</div>
-                                                <div>25★</div>
+                                                <div>5.66%</div>
+                                                <div>24★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -303,8 +303,8 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>5.19%</div>
-                                                <div>22★</div>
+                                                <div>5.42%</div>
+                                                <div>23★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
