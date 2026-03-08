@@ -58,7 +58,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="775.0413333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="775.2273333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -83,7 +83,7 @@
                                     maintainer
                                     <span class="gh">ranked 130 out of 302m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 85004 stars</div>
+                                <div class="text">Maintaining a repository with 85022 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -165,7 +165,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 8.36k out of 202m users</span>
+                                    <span class="gh">ranked 8.37k out of 203m users</span>
                                 </div>
                                 <div class="text">Followed by 1108 users</div>
                             </div>
@@ -311,7 +311,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 932k out of 202m users</span>
+                                    <span class="gh">ranked 933k out of 203m users</span>
                                 </div>
                                 <div class="text">Published 50 public repositories</div>
                             </div>
