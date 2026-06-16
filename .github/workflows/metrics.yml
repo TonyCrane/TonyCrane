@@ -46,10 +46,10 @@ jobs:
           # plugin_starlists_languages_aliases: Jupyter Notebook:ipynb
           # plugin_starlists_limit_repositories: 0
           # plugin_starlists_only: Learning
-          plugin_rss: yes
-          plugin_rss_source: https://blog.tonycrane.cc/atom.xml
-          plugin_rss_limit: 3
-          config_order: followup, languages, rss
+          # plugin_rss: yes
+          # plugin_rss_source: https://blog.tonycrane.cc/atom.xml
+          # plugin_rss_limit: 3
+          config_order: base.header, base.activity+community, followup, languages # , rss
 
       - name: right profile 
         uses: stalomeow/metrics@projects-v2
