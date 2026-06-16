@@ -5,9 +5,8 @@
     <a href="https://tonycrane.cc/">me</a> ∙
     <a href="https://blog.tonycrane.cc/">blog</a> ∙
     <a href="https://note.tonycrane.cc/">note</a> ∙
-    <a href="https://space.bilibili.com/171431343">bilibili</a> ∙ 
-    <a href="https://t.me/TonyCraneSky">channel</a> ∙
-    <a href="https://t.me/Tony_Crane">telegram</a>
+    <a href="https://space.bilibili.com/171431343">bilibili</a> ∙
+    <a href="https://scores.tonycrane.cc/">scores</a>
   </samp>
 </p>
 
