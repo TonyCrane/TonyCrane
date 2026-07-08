@@ -25,7 +25,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="807.3226666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="807.581 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -48,9 +48,9 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 149 out of 331m repositories</span>
+                                    <span class="gh">ranked 150 out of 332m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 88128 stars</div>
+                                <div class="text">Maintaining a repository with 88153 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -95,7 +95,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.43 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.326666666666668 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -132,9 +132,9 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 8.29k out of 226m users</span>
+                                    <span class="gh">ranked 8.31k out of 227m users</span>
                                 </div>
-                                <div class="text">Followed by 1159 users</div>
+                                <div class="text">Followed by 1158 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -278,7 +278,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 1m out of 226m users</span>
+                                    <span class="gh">ranked 1m out of 227m users</span>
                                 </div>
                                 <div class="text">Published 50 public repositories</div>
                             </div>
